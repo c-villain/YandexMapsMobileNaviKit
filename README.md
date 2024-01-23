@@ -10,6 +10,8 @@
 
 Binary Framework as Swift Package with Yandex mobile maps (NaviKit SDK).
 
+[Yandex Documentation](https://yandex.ru/dev/mapkit/doc/ru/ios/generated/navigation/overview).
+
 Full version you can find [here](https://github.com/c-villain/YandexMapsMobile).
 
 Lite version you can find [here](https://github.com/c-villain/YandexMapsMobileLite).
