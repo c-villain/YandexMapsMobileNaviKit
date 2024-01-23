@@ -8,7 +8,7 @@
 [![contact: @lexkraev](https://img.shields.io/badge/contact-%40lexkraev-blue.svg?style=flat)](https://t.me/lexkraev)
 [![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fswiftui_dev)](https://telegram.dog/swiftui_dev)
 
-Binary Framework as Swift Package with Yandex mobile maps (NaviKit SDK).
+Binary Framework as Swift Package with Yandex mobile maps ([NaviKit SDK](https://yandex.ru/maps-api/products/navikit)).
 
 [Yandex Documentation](https://yandex.ru/dev/mapkit/doc/ru/ios/generated/navigation/overview).
 
