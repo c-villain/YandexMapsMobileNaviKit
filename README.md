@@ -20,6 +20,10 @@ Lite version you can find [here](https://github.com/c-villain/YandexMapsMobileLi
 
 - iOS 12.0
 
+## Recommedations to use
+
+For more details look [here](https://github.com/c-villain/YandexMapsMobile#recommedations-to-use).
+
 ## Swift Package Manager
 
 To integrate YandexMapsMobile into your project using SwiftPM do this 👇🏻
