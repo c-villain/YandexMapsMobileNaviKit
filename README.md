@@ -18,7 +18,7 @@ Lite version you can find [here](https://github.com/c-villain/YandexMapsMobileLi
 
 ## Requirements
 
-- iOS 12.0
+- iOS 13.0
 
 ## Recommedations to use
 
