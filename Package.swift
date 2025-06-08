@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "YandexMapsMobile",
-            url: "https://github.com/c-villain/YandexMapsMobileNaviKit/releases/download/4.15.0/YandexMapsMobile.xcframework.zip",
-            checksum: "7f9c9f7e0027034772afe2f2f88be64cb9182a7955dcc70ae38fbe4ccf0ce4ff"
+            url: "https://github.com/c-villain/YandexMapsMobileNaviKit/releases/download/4.16.0/YandexMapsMobile.xcframework.zip",
+            checksum: "163227c4eaf959821bc614bfaf5bf0d5d35516b9bbf73ce0c4ca7828c16ea69c"
         ),
     ]
 )
